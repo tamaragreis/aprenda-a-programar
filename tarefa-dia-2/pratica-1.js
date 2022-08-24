@@ -1,0 +1,5 @@
+nome = "Tamara Reis"
+email = "tamarinhajb@gmail.com"
+profissão = "Cientista de Alimentos"
+idade = "29 anos"
+Lugar = "Praga"
